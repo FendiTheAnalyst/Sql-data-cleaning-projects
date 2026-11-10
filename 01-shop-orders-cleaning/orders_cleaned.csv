@@ -1,0 +1,35 @@
+order_id,customer_name,email,phone,city,product,category,quantity,unit_price,status,order_date
+1001,"adaeze okafor",adaeze.okafor@mail.com,08031234567,lagos,"rice 50kg",groceries,2,45000.00,delivered,2026-01-05
+1002,"chinedu eze",chinedu.eze@mail.com,08039876543,lagos,"phone charger",electronics,1,3500.00,delivered,2026-01-05
+1003,"fatima bello",fatima.bello@mail.com,08051112222,abuja,blender,appliances,1,28000.00,delivered,2026-01-07
+1004,"tunde adeyemi",NULL,08024445555,ibadan,"bluetooth speaker",electronics,2,12000.00,shipped,2026-01-08
+1005,"ngozi nwosu",ngozi.nwosu@mail.com,07066667777,"port harcourt","rice 50kg",groceries,1,45000.00,delivered,2026-01-08
+1006,"emeka obi",emeka.obi@mail.com,NULL,lagos,"office chair",furniture,1,65000.00,pending,2026-01-10
+1007,"aisha mohammed",aisha.m@mail.com,09012345678,kano,"cooking oil 5l",groceries,3,8500.00,delivered,2026-01-10
+1008,"segun balogun",segun.balogun@mail.com,08133334444,lagos,"notebook (pack of 10)",stationery,5,2500.00,delivered,2026-01-11
+1009,"blessing udo",blessing.udo@mail.com,08055556666,abuja,"phone charger",electrnics,2,3500.00,cancelled,2026-01-12
+1010,"ibrahim sani",ibrahim.sani@mail.com,07088889999,abuja,blender,appliances,1,28000.00,delivered,2026-01-12
+1011,"folake johnson",folake.j@mail.com,08099990000,ibadan,"rice 50kg",groceries,2,45000.00,cancelled,2026-01-14
+1012,"kelechi onu",NULL,08021112233,enugu,"bluetooth speaker",electronics,1,12000.00,delivered,2026-01-15
+1013,"yusuf garba",yusuf.garba@mail.com,NULL,kano,"office chair",furniture,2,65000.00,shipped,2026-01-15
+1014,"chioma eze",chioma.eze@mail.com,08144445555,"port harcourt","cooking oil 5l",groceries,NULL,8500.00,delivered,2026-01-16
+1015,"oluwaseun ade",seun.ade@mail.com,08166667777,lagos,"notebook (pack of 10)",stationery,4,2500.00,delivered,2026-01-16
+1016,"hauwa lawal",hauwa.l@mail.com,09077778888,kano,"rice 50kg",groceries,1,45000.00,pending,2026-01-17
+1017,"victor okoro",victor.okoro@mail.com,08033332222,"port harcourt","phone charger",electronics,3,3500.00,delivered,2026-01-18
+1018,"amina yakubu",amina.y@mail.com,08099887766,abuja,blender,appliances,1,28000.00,cancelled,2026-01-18
+1019,"damilola fashola",dami.fashola@mail.com,08122223333,lagos,"office chair",furniture,1,65000.00,shipped,2026-01-20
+1020,"peter nnamdi",peter.nnamdi@mail.com,08055554444,enugu,"cooking oil 5l",groceries,2,8500.00,delivered,2026-01-21
+1021,"rukayat bello",rukayat.b@mail.com,07011112222,ibadan,"bluetooth speaker",electronics,2,12000.00,delivered,2026-01-21
+1022,"obinna eze",obinna.eze@mail.com,08077776666,lagos,"rice 50kg",groceries,2,45000.00,delivered,2026-01-22
+1023,"zainab musa",zainab.musa@mail.com,NULL,kano,"notebook (pack of 10)",stationery,3,2500.00,delivered,2026-01-23
+1024,"tobi adebayo",tobi.a@mail.com,08188889999,lagos,"phone charger",electronics,1,3500.00,shipped,2026-01-23
+1025,"grace effiong",grace.effiong@mail.com,08011223344,"port harcourt",blender,appliances,1,28000.00,delivered,2026-01-25
+1026,"mustapha aliyu",mustapha.a@mail.com,09099887711,abuja,"cooking oil 5l",groceries,4,8500.00,pending,2026-01-25
+1027,"ifeoma nwankwo",ifeoma.n@mail.com,NULL,enugu,"office chair",furniture,1,65000.00,delivered,2026-01-27
+1028,"sunday okon",sunday.okon@mail.com,08066665555,lagos,"rice 50kg",groceries,2,45000.00,delivered,2026-01-28
+1029,anon,anon1@mail.com,08000000001,lagos,"phone charger",electronics,1,3500.00,delivered,2026-01-30
+1030,"halima dauda",halima.d@mail.com,08000000002,NULL,"cooking oil 5l",groceries,2,8500.00,delivered,2026-01-30
+1031,"chidi anozie",chidi.a@mail.com,08000000003,enugu,"notebook (pack of 10)",stationery,6,2500.00,delivered,2026-02-01
+1032,"bola tinubu jr",bola.j@mail.com,08000000004,lagos,"bluetooth speaker",electronics,1,12000.00,pending,2026-02-02
+1033,"latifat ojo",latifat.ojo@mail.com,08000000005,ibadan,"rice 50kg",groceries,1,45000.00,shipped,NULL
+1034,"philip ekong",philip.e@mail.com,08000000006,"port harcourt","office chair",furniture,1,65000.00,NULL,2026-02-03
